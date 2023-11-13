@@ -1,0 +1,11 @@
+C:\Users\MO-04\Desktop\GününSorusu\GününSorusu\bin\Debug\GününSorusu.exe
+C:\Users\MO-04\Desktop\GününSorusu\GününSorusu\bin\Debug\GününSorusu.pdb
+C:\Users\MO-04\Desktop\GününSorusu\GününSorusu\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\MO-04\Desktop\GününSorusu\GününSorusu\obj\x86\Debug\GününSorusu.Form1.resources
+C:\Users\MO-04\Desktop\GününSorusu\GününSorusu\obj\x86\Debug\GününSorusu.Properties.Resources.resources
+C:\Users\MO-04\Desktop\GününSorusu\GününSorusu\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\MO-04\Desktop\GününSorusu\GününSorusu\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\MO-04\Desktop\GününSorusu\GününSorusu\obj\x86\Debug\GününSorusu.exe
+C:\Users\MO-04\Desktop\GününSorusu\GününSorusu\obj\x86\Debug\GününSorusu.pdb
+C:\Users\lenovo\Desktop\C#\NTP Dersinde Yaptığımız Çalışmalar\18.GÜN\GününSorusu\GününSorusu\obj\x86\Debug\GününSorusu.exe
+C:\Users\lenovo\Desktop\C#\NTP Dersinde Yaptığımız Çalışmalar\18.GÜN\GününSorusu\GününSorusu\obj\x86\Debug\GününSorusu.pdb
